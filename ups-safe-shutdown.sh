@@ -1,8 +1,8 @@
 #!/bin/bash
 
-target_ip=192.168.2.66
+target_ip=192.168.2.1
 failure_count=0
-shutdown_failure_count_threshold=15
+shutdown_failure_count_threshold=20
 
 while :
 do
